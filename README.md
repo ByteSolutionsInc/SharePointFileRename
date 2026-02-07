@@ -1,5 +1,5 @@
 # SharePointFileRename
-SharePoint PowwerShell to rename files. This was purposely built to fix filenames after a Microsoft Point in Time restore from an Akira infection. 
+SharePoint PowerShell to rename files. This was purposely built to fix filenames after a Microsoft Point in Time restore from an Akira infection. 
 
 [![PowerShell](https://img.shields.io/badge/PowerShell-7%2B-blue)](https://powershell.org)
 [![PnP.PowerShell](https://img.shields.io/badge/PnP.PowerShell-latest-green)](https://pnp.github.io/powershell/)
